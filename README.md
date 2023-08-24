@@ -31,8 +31,8 @@ I was not able to make the dropdowns as they were in my original design. Creatin
 I was not able to show the Raw Data in a more structured manner. I originally wanted to show the data like this:
 
                     2017	2018	2019	2020
-    value           3.5     3.5	 3.5	 3.5
-    career          3.8	  3.8 	3.8	   3.8
+    value           3.5     3.5	3.5	 3.5
+    career          3.8	 3.8 	3.8	   3.8
     difficulty      3.5 	3.0 	3.5	   3.0
 
 But I was not able too do so which resulted in the increased amount of tables. This would be fixed in a later iteration of the web page.
