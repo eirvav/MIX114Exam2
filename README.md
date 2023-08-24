@@ -31,7 +31,7 @@ I was not able to make the dropdowns as they were in my original design. Creatin
 I was not able to show the Raw Data in a more structured manner. I originally wanted to show the data like this:
 
                     2017	2018	2019	2020
-    value           3.5       3.5	  3.5	   3.5
+    value           3.5      3.5	  3.5	   3.5
     career          3.8	 3.8 	3.8	   3.8
     difficulty      3.5 	3.0 	3.5	   3.0
 
